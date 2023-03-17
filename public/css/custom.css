@@ -1,0 +1,46 @@
+.product-link{
+    font-size:18px;
+    text-decoration: none;
+    color:#2a2a2a;
+}
+.col-sm{
+    border-right: 1px solid #e9e9e9;
+}
+.custom-footer{
+    position: relative;
+    top:542px;
+}
+.block-style{
+    display: block;
+}
+.product-container{
+    margin-top:40px;
+}
+.title__categories{
+    font-size: 24px;
+    color:#2a2a2a;
+    font-weight:400;
+    margin-top:20px;
+}
+.custom-card{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    border:1px solid #9b9b9b;
+    border-radius:15px;
+    padding:0px 20px 20px 20px;
+    max-width:18rem;
+    margin-right:20px;
+}
+.custom-card-title{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.custom-card:last-child{
+    margin-right:0;
+}
+.h3-custom-cpu-title{
+    margin-top:30px;
+    margin-bottom:50px;
+}
