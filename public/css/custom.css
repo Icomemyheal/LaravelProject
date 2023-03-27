@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 .product-link{
     font-size:18px;
     text-decoration: none;
@@ -27,20 +29,35 @@
     flex-direction: column;
     justify-content:center;
     align-items:center;
+    flex-wrap:wrap;
     border:1px solid #9b9b9b;
     border-radius:15px;
     padding:0px 20px 20px 20px;
     max-width:18rem;
     margin-right:20px;
+    margin-bottom:60px;
+}
+.card-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size:18px;
+}
+.card-product-container{
+    margin-left:36px;
+}
+.card-body-product{
+    margin-top:25px;
+}
+.buttons-container a{
+    margin-right:4px;
 }
 .custom-card-title{
     margin-top:10px;
     margin-bottom:10px;
 }
-.custom-card:last-child{
-    margin-right:0;
-}
 .h3-custom-cpu-title{
     margin-top:30px;
     margin-bottom:50px;
+}
+.card-header{
+    font-family: 'Open Sans', sans-serif;
 }
