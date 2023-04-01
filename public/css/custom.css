@@ -61,3 +61,14 @@
 .card-header{
     font-family: 'Open Sans', sans-serif;
 }
+.btns-container-basket > form > button{
+    margin-right:5px;
+}
+.btns-container-basket > span{
+    margin-right:5px;
+    padding-top:12px;
+}
+.basket-div > div:last-child{
+    margin-left:15px;
+    width:300px;
+}

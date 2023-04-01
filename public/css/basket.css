@@ -36,6 +36,10 @@
     .responsive-text{
         margin-top:15px;
     }
+    img{
+        max-width:200px !important;
+        max-height:200px !important;
+    }
 }
 @media (max-width: 1199.98px) {
     .responsive-btn{
